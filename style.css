@@ -1,0 +1,26 @@
+h1{
+    color: #DCD914   
+   }
+*{
+    border:solid;
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: burlywood;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+h2,p{
+    text-align: center;
+}
